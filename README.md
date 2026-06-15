@@ -16,3 +16,5 @@ Este manual detalhado serve como documento referencial tecnico e operacional par
 equipe, descrevendo as restricoes arquiteturais, mecanismos de controle de estado em tempo real,
 logica de filtros avancados de busca, bem como o inovador motor de customizacao textual
 baseado em Inteligencia Artificial utilizando Gemini AI.
+
+Link projeto: https://petfamily7.netlify.app/
